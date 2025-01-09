@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Gold Necklace",
+    "price": 150.00,
+    "description": "A stunning 18k gold necklace with a sleek design.",
+    "category": "Necklaces"
+  },
+  {
+    "name": "Diamond Earrings",
+    "price": 250.00,
+    "description": "Elegant diamond stud earrings with a brilliant shine.",
+    "category": "Earrings"
+  },
+  {
+    "name": "Silver Ring",
+    "price": 75.00,
+    "description": "A stylish silver ring with a smooth, polished finish.",
+    "category": "Rings"
+  },
+  {
+    "name": "Pearl Bracelet",
+    "price": 120.00,
+    "description": "A beautiful bracelet featuring lustrous white pearls.",
+    "category": "Bracelets"
+  },
+  {
+    "name": "Sapphire Pendant",
+    "price": 180.00,
+    "description": "A sparkling sapphire pendant set in 14k gold.",
+    "category": "Necklaces"
+  },
+  {
+    "name": "Ruby Ring",
+    "price": 220.00,
+    "description": "A 18k gold ring with a vibrant red ruby centerpiece.",
+    "category": "Rings"
+  },
+  {
+    "name": "Platinum Cufflinks",
+    "price": 300.00,
+    "description": "Elegant platinum cufflinks with a brushed finish.",
+    "category": "Accessories"
+  },
+  {
+    "name": "Emerald Necklace",
+    "price": 350.00,
+    "description": "A delicate 14k gold necklace with a stunning emerald.",
+    "category": "Necklaces"
+  },
+  {
+    "name": "Diamond Bracelet",
+    "price": 500.00,
+    "description": "A luxurious diamond bracelet with a pave setting.",
+    "category": "Bracelets"
+  },
+  {
+    "name": "Amethyst Earrings",
+    "price": 90.00,
+    "description": "Elegant amethyst earrings with a simple yet bold design.",
+    "category": "Earrings"
+  },
+  {
+    "name": "Gold Wedding Band",
+    "price": 200.00,
+    "description": "Classic 18k gold wedding band with a polished finish.",
+    "category": "Rings"
+  },
+  {
+    "name": "Opal Pendant",
+    "price": 160.00,
+    "description": "A mesmerizing opal pendant set in sterling silver.",
+    "category": "Necklaces"
+  },
+  {
+    "name": "Silver Anklet",
+    "price": 40.00,
+    "description": "A delicate silver anklet with a simple design.",
+    "category": "Anklets"
+  },
+  {
+    "name": "Titanium Watch",
+    "price": 250.00,
+    "description": "A durable titanium watch with a sleek, modern design.",
+    "category": "Watches"
+  },
+  {
+    "name": "Platinum Ring",
+    "price": 400.00,
+    "description": "A luxurious platinum ring with a minimalist design.",
+    "category": "Rings"
+  },
+  {
+    "name": "Tanzanite Pendant",
+    "price": 275.00,
+    "description": "A beautiful tanzanite pendant set in white gold.",
+    "category": "Necklaces"
+  },
+  {
+    "name": "Citrine Earrings",
+    "price": 85.00,
+    "description": "Elegant citrine earrings with a modern design.",
+    "category": "Earrings"
+  },
+  {
+    "name": "Aquamarine Ring",
+    "price": 320.00,
+    "description": "A stunning aquamarine ring with a diamond halo.",
+    "category": "Rings"
+  },
+  {
+    "name": "Onyx Bracelet",
+    "price": 150.00,
+    "description": "A stylish onyx bracelet with a sleek design.",
+    "category": "Bracelets"
+  },
+  {
+    "name": "Opal and Diamond Necklace",
+    "price": 600.00,
+    "description": "An exquisite necklace featuring opals and diamonds.",
+    "category": "Necklaces"
+  },
+  {
+    "name": "Silver Charm Bracelet",
+    "price": 110.00,
+    "description": "A beautiful silver charm bracelet with customizable charms.",
+    "category": "Bracelets"
+  },
+  {
+    "name": "Garnet Ring",
+    "price": 180.00,
+    "description": "A striking garnet ring set in sterling silver.",
+    "category": "Rings"
+  }
+]
